@@ -1,0 +1,15 @@
+body{
+    background-image:linear-gradient(lightgreen, grey, white, lightblue);
+}
+
+#points{
+    font-size: 25px;
+    float:left;
+    padding-left:10px;
+}
+
+#time{
+    font-size: 25px;
+    float:right;
+    padding-right:200px;
+}
